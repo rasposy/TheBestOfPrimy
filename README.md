@@ -8,4 +8,4 @@ The project is a simulation of a distributed algorithm to find large prime numbe
 
 Run
 -----
-Follow the README respectively for the [backend](./backend/README.md) and the [frontend](./frontend/README.md).
+Follow the README respectively for the [backend](./Backend_Final/README.md) and the [frontend](./frontend/README.md).
