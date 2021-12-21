@@ -1,0 +1,24 @@
+{
+    "name": "Primy",
+    "version": "1.0.0",
+    "description": "Primy: Finding a large prime",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Elena and Tatiana",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^9.4.4",
+        "electron-builder": "^22.14.5"
+    },
+    "dependencies": {
+        "electron-packager": "^15.4.0",
+        "node": "^14.2.0",
+        "server": "^1.0.27",
+        "xmlhttprequest": "^1.8.0"
+    },
+    "build": {
+        "appId": "ch.unifr.primy"
+    }
+}
