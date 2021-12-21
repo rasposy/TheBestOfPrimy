@@ -14,7 +14,3 @@ Run
 -----
 
     $ rebar3 shell
-
-Make sure health is ok
------
-[http://localhost:8080/health](http://localhost:8080/health)
